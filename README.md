@@ -1,2 +1,2 @@
 # lazy-poet
-HTML-CSS-JavaScript project for beginners and fans of generated poetry
+###### this is just me trying to build a poem generator, starting with simple haikus
